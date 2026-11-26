@@ -1,4 +1,4 @@
-# My Student Portal (`csit248-portal-5073`)
+# My Student Portal (`CSIT248-portal-5073`)
 
 - **Name:** Sherov Mironshox
 - **Enrolment Number:** 5073
